@@ -8,7 +8,7 @@ require('dotenv').config()
 const fetch = require("node-fetch");
 
 // Config file
-const config = require('./src/data/config.json')
+const config = require('./data/config.json')
 
 // Grab tokens and secret files
 const debug = config.debug;
