@@ -1,0 +1,11 @@
+{
+	"token":"OTQ5ODY4ODk3ODk5Nzc0MDQy.YiQoWA.lqETWWepY_WOUuSwV8P_rXJigDU",
+	"admin":"934398595413729280",
+	"dbl":"mongodb+srv://Snzy:neji@webupt.vhkov.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"weebsh":"https://discord.com/api/oauth2/authorize?client_id=949868897899774042&permissions=8&scope=bot",
+	"patreonID":"949868897899774042",
+	"patreonSecret":"zWTVbB4PZ4LxssWwy3CCziIt02T4p6k2",
+	"patreonAccessToken":"OTQ5ODY4ODk3ODk5Nzc0MDQy.YiQoWA.lqETWWepY_WOUuSwV8P_rXJigDU",
+	"patreonRefreshToken":"OTQ5ODY4ODk3ODk5Nzc0MDQy.YiQoWA.lqETWWepY_WOUuSwV8P_rXJigDU",
+	"patreonRedirect":"https://discord.com/api/oauth2/authorize?client_id=949868897899774042&permissions=8&scope=bot"
+}
