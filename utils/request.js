@@ -6,7 +6,7 @@
   */
 
 const request = require('request');
-const secret = require('../../tokens/wsserver.json');
+const secret = require('./utils/wsserver.json');
 
 exports.fetchInit = function(){
 	return new Promise( (resolve, reject) => {
